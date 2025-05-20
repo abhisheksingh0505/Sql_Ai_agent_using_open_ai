@@ -1,0 +1,20 @@
+# Database-related dependencies  
+sqlalchemy  
+psycopg2  
+
+# Environment variable management  
+python-dotenv  
+
+# OpenAI and LangChain dependencies  
+openai  
+langchain  
+langchain-core  
+langchain-openai  
+langchain-community  
+
+# Web frameworks and API handling  
+flask  
+streamlit  
+
+# Data processing  
+pandas  
